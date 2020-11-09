@@ -6,4 +6,4 @@ HOW TO USE THE SIMULATION FILES:-
 2. then load the sun data to the matlab by opening sunpositiondata.mat files.
 3. lastly open up the solar_panel.slx to run the simulation and see the results through scope block.
 
-some as a result are shown in the parent directory.
+some pictures as a result are shown in the parent directory.
